@@ -1,0 +1,11 @@
+auto-detallado-web/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── /img
+│   ├── logo.png
+│   ├── auto1.jpg
+│   ├── auto2.jpg
+│
+└── README.md
